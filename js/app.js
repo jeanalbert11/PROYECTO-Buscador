@@ -8,7 +8,7 @@ const doors = document.querySelector('#puertas');
 const transmission = document.querySelector('#transmision');
 const color = document.querySelector('#color');
 // contenedor para los resultados
-const result = document.querySelector('#resultado');
+const result = document.querySelector('#result');
 // var aux para llenar dropdownlist
 const maxYear = new Date().getFullYear();
 const mintYear = maxYear - 10;
